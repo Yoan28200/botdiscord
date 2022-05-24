@@ -1,0 +1,12 @@
+{
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Projet Discord Bot AFPA",
+  "main": "index.js",
+  "repository": "https://github.com/Yoan28200/botdiscord.git",
+  "author": "<yoan.laplace28@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
